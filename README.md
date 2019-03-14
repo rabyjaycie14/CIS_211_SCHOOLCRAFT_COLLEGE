@@ -1,14 +1,14 @@
 # Author
   JAYICE RABY
 
-# CIS_211_SCHOOLCRAFT_COLLEGE
-  Introduction to C++ | Schoolcraft College | Livonia, MI | 2017
+# CIS_221_SCHOOLCRAFT_COLLEGE
+  Advanced C++ | Schoolcraft College | Livonia, MI | 2017
 
 # Textbook
   Starting Out with C++: Early Objects, 9th Edition by Gaddis, Walters and Muganda
 
 # Course Description
-"This course is an introduction to the C++ programming language. The student will learn the basics of the C++ language up through and including control structures, functions and pointers. This course is intended for those who want a general knowledge of the C++ language."
+"This course is a continuation of the Introduction to C++ programming language course. The student will learn the advanced concepts of the C++ language up through and including operator and function overloading, inheritance, virtual functions, polymorphism, stream I/O, templates, exception handling, file processing and data structures. This course is intended for those who desire an advanced knowledge of the C++ language."
 
 # Files Included:
   # Division Sales Class Page 787
